@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+
+    <body>
+
+        <!-- incement the value of countvar everytime   -->
+
+        <!-- using closure 
+             
+        -->
+
+         <script type="text/javascript">
+
+             var increment =(function()
+                                {
+                                    var countvar=0;
+                                    return function()
+                                        {
+                                             return ++countvar;
+                                        } 
+                                })();
+         
+    
+
+        </script>
+         
+
+        <input type="button" value="increment" onclick="alert(increment());"/>
+
+
+
+
+    </body>
+</html>

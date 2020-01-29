@@ -1,0 +1,25 @@
+1. https://www.youtube.com/watch?v=C7TFgfY7JdE   //maximilian schwarzmüller
+
+basic setup:
+https://docs.npmjs.com/creating-node-js-modules
+
+//bcryptjs npm 
+https://medium.com/@vuongtran/using-node-js-bcrypt-module-to-hash-password-5343a2aa2342
+
+//sql vs nosql
+https://www.youtube.com/watch?v=ZS_kXvOeQ5Y
+
+//basic operations using mongoDB
+https://medium.com/@jinalshah999/introduction-to-mongodb-and-basic-crud-operations-a406452b83e9
+
+
+//installation of mongodb on ubuntu
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+https://www.youtube.com/watch?v=oLN-7eChUt0
+
+update the document:https://www.youtube.com/watch?v=LGVryGY5A9g
+
+//backup mongo db
+https://www.digitalocean.com/community/tutorials/how-to-create-and-use-mongodb-backups-on-ubuntu-14-04
+
+https://stackoverflow.com/questions/43664565/why-do-people-put-the-env-into-gitignore/43664611

@@ -1,0 +1,24 @@
+//gives list of project and its keys
+https://vaishnavijawanjal.atlassian.net/rest/api/2/project
+
+//gives list of project members 
+https://vaishnavijawanjal.atlassian.net/rest/api/2/user/assignable/search?project=REAC
+
+
+//gives total issues in project
+https://vaishnavijawanjal.atlassian.net/rest/api/2/search?jql=project=REAC&fields=issue,name&startAt=0&maxResults=8000 
+
+https://vaishnavijawanjal.atlassian.net/rest/api/2/search?jql=project=REAC&fields=issue,status,name&startAt=0&maxResults=8000
+
+//gives worklog
+https://vaishnavijawanjal.atlassian.net/rest/api/3/issue/REAC-1/worklog
+
+
+
+
+
+//rest-api-react
+https://stackoverflow.com/questions/52284518/reactjs-trying-to-get-access-json-data-from-rest-api-from-jira-but-unable-to-d
+
+
+
